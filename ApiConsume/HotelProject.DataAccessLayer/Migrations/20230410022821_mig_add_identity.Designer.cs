@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HotelProject.DataAccessLayer.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20230406030635_mig_add_identity")]
+    [Migration("20230410022821_mig_add_identity")]
     partial class mig_add_identity
     {
         /// <inheritdoc />
